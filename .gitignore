@@ -1,0 +1,4 @@
+.venv
+tinyllama-sql-lora
+__pycache__
+tinyllama-sql-lora-adapter
